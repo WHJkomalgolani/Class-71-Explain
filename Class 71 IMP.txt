@@ -1,0 +1,11 @@
+npm install firebase
+
+Also in config file below should be the first line:
+import firebase from "firebase";
+
+As per pdf they have mentioned :
+import * as firebase from "firebase";
+
+But for 8.1.   * it is not required.
+
+IMP Note: While asking student to make project in database , refer pdf and class video also.

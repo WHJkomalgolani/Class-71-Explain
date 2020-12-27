@@ -1,0 +1,19 @@
+Output should be checked on phone.
+After expo start ,in phone some yellow lines will come in output .They are warnings.Ignore them.
+
+Below link is used for scanning bookid and studentid from database:
+https://www.the-qrcode-generator.com/
+
+
+First type bookid of database on above link and scan QR code on phone .
+Second type studentid of database on above link  and scan QR code on phone .
+
+After this click Submit button on phone.
+
+After that check database .
+Transaction section will be updated with the details.
+Check screenshot for details.
+
+
+
+
